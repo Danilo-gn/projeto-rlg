@@ -1,1 +1,8 @@
-Projeto de relogio digital usando html, css e js.
+Projeto de relogio digital.
+
+[Clique aqui para acessar.](https://danilo-gn.github.io/relogio-digital/)
+
+##Tecnologias utilizadas
+-HTML
+-CSS
+-JS
